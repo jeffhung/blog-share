@@ -1,4 +1,4 @@
-i#!/bin/sh -e
+#!/bin/sh -e
 # ---------------------------------------------------------------------------
 # Copyright (c) 2007, Jeff Hung
 # All rights reserved.
